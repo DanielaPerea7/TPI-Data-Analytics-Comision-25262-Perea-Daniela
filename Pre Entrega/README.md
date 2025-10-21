@@ -57,10 +57,13 @@ Normalización de texto y tipado, eliminación de duplicados, transformación de
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Alumna
 
 **Daniela Perea**
 
+---
+
 📅 **Fecha de entrega:** 22/10/2025
+
 
 
