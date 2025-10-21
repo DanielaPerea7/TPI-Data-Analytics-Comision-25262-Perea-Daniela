@@ -1,5 +1,5 @@
 
-# 📊 Pre-Entrega 2 - Limpieza y Análisis Exploratorio de Producción de Gas Natural en Argentina
+# 📊 TPI Data Analytics - Pre-Entrega (Etapas 1 & 2)
 
 Este proyecto forma parte de la **Preentrega** del curso de *Data Analytics*.  
 El objetivo es demostrar habilidades iniciales en **Python básico**, **Pandas**, y **Análisis exploratorio de datos**, aplicando buenas prácticas de codificación y presentación de resultados en formato notebook.
@@ -61,3 +61,4 @@ El objetivo es demostrar habilidades iniciales en **Python básico**, **Pandas**
 ---
 
 **Fecha de entrega**: 22/10/2025
+
